@@ -1,0 +1,423 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.089);
+}
+.furni-text-logo{
+     color: white; /*change to white */
+     font-size: 30px;
+     margin-left: 100px;
+}
+ .nav-div{ /*parent of nav section */
+    display: flex;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+.navlist{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin-left: 310px;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.425);
+}
+.home-nav{
+    margin-right: 30px;
+}
+.about-nav{
+    margin-left: 20px;
+}
+li a:hover{
+    color: white;
+    text-decoration-line: underline;
+}
+.shoping-cart{
+    margin-left: 50px;
+}
+.nav-section{
+    background-color: #085a3db0;
+     height: 550px; 
+    width: 100%; 
+   
+}
+.text-inside-home-div{
+    font-size: 30px;
+    color: white;
+}
+.useless-words{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.useless-words2{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-top: 12px;
+}
+.shop-now-btn{
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 40px;
+padding-right: 40px;
+border-radius: 50px;
+border: none;
+background-color: rgba(255, 255, 0, 0.685);
+cursor: pointer;
+margin-top: 20px;
+}
+.shop-now-btn:hover{
+    background-color: rgba(255, 255, 0, 0.849);
+}
+.explore-btn{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    border: none;
+    background-color: transparent;
+    border: solid rgba(255, 255, 255, 0.438);
+    cursor: pointer;
+    margin-top: 20px;
+}
+.explore-btn:hover{
+    border: solid white;
+}
+.text-inside-home-div{
+    margin-top: 80px;
+    margin-left: 110px;
+}
+.couch-img{
+    height: 550px;
+   
+}
+.hero-div{
+    display: flex;
+}
+
+.why-choose-us-txt{
+    font-size: 40px;
+}
+.why-choose-us-p{
+    color: rgba(0, 0, 0, 0.644); 
+    margin-top: 15px;
+}
+.fast-delivery-div{
+    height: 200px;
+    width: 250px;
+}
+.light-p-under-title{
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 10px;
+}
+.useless-words3{
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 10px;
+}
+.useless-words4{
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 10px;
+}
+.useless-words5{
+    color: rgba(0, 0, 0, 0.644);
+    margin-top: 10px;
+}
+.title-p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.title-p2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.title-p3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.title-p4{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.first-div{
+    display: flex;
+    gap: 30px;
+}
+._nd-roll-parent-div{
+display: flex;
+gap: 50px;
+}
+.why-choose-img{
+    height: 500px;
+    border-radius: 20px;
+}
+.div-parent-flex-img{
+    display: flex;
+    gap: 150px;
+    margin-top: 150px;
+}
+.holder-img{
+    margin-left: 140px;
+}
+.extra-holder-for-margin{
+    margin-top: 50px;
+}
+.our-team-heading{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.877);
+    text-align: center;
+}
+.team-imgs{
+    height: 250px;
+    width: 250px;
+}
+.name-teams{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.name-teams:hover{
+    text-decoration: none;
+}
+.ceo-p{
+    color: rgba(0, 0, 0, 0.705);
+    font-size: 16px;
+    margin-top: 15px;
+}
+.description{
+    color: rgba(0, 0, 0, 0.705);
+    font-size: 16px;
+    margin-top: 10px;
+}
+.description-div{
+    margin-top: 30px;
+}
+.learn{
+    color: black;
+}
+.learn-p{
+    margin-top: 20px;
+}
+.parent-div-our-team{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.team1-div{
+    margin-left: 110px;
+}
+.our-team-section{
+    margin-top: 250px;
+}
+
+.heading-txt{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 120px;
+   
+}
+.para-testimonial{
+    color: rgba(0, 0, 0, 0.644);
+    font-size: 20px;
+    margin-top: 45px;
+}
+.person-testimonial{
+    height: 100px;
+    border-radius: 100px;
+    margin-top: 40px;
+}
+.person-testimonial2{
+    height: 120px;
+    width: 130px;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+.person-testimonial3{
+    height: 120px;
+    width: 130px;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+.person-testimonial4{
+    height: 120px;
+    width: 130px;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+.person-testimonial5{
+    height: 120px;
+    width: 130px;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+.name-person{
+    font-size: 20px;
+}
+.founder-txt{
+    color: rgba(0, 0, 0, 0.644); 
+}
+.testimonial-1{
+    justify-items: center;
+}
+.testimonial-2{
+    justify-items: center;
+}
+.testimonial-3{
+    justify-items: center;
+}
+.testimonial-4{
+    justify-items: center;
+}
+.testimonial-5{
+    justify-items: center;
+}
+ .parent-testimonial{
+    justify-items: center;
+   
+ }
+.arrow {
+    cursor: pointer;
+    font-size: 36px;
+    user-select: none;
+  }
+  .testi {
+    display: none;
+  }
+  .testi.active {
+    display: block;
+  }
+  .blog-head-txt{
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.897); 
+    margin-left: 60px;
+  }
+  .blog-img{
+    height: 230px;
+    width: 350px;
+    border-radius: 20px;
+  }
+  .blog-p{
+    color: rgba(0, 0, 0, 0.897);
+    margin-top: 15px; 
+  }
+  .blog-p2{
+    font-size: 11px;
+    color: rgba(0, 0, 0, 0.897); 
+    margin-top: 5px;
+    
+  }
+  .parent-blog{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 70px;
+  }
+  .blog1-div{
+    margin-left: 50px;
+  }
+  .blog-section{
+    margin-top: 200px;
+  }
+  .envo-img{
+    height: 30px;
+  }
+  .envo-txt{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.822);
+    margin-top: 5px;
+  }
+  .envo-parent-txt{
+    display: flex;
+    gap: 15px;
+    margin-left: 100px;
+    padding-top: 100px;
+  }
+  .form1{
+    height: 40px;
+    width: 200px;
+    border: solid rgba(0, 0, 0, 0.425);
+    border-radius: 10px;
+    margin-left: 100px;
+  }
+  .form2{
+    height: 40px;
+    width: 200px;
+    border: solid rgba(0, 0, 0, 0.425);
+    border-radius: 10px;
+  }
+.tele{
+    height: 30px;
+    margin-top: 5px;
+    cursor: pointer;
+     
+}
+.sofa-img{
+    height: 350px;
+    position: relative;
+    left: 150px;
+    bottom: 280px;
+}
+.parent-form{
+    display: flex;
+    gap: 80px;
+    margin-top: 15px;
+}
+.form-section{
+    margin-top: 200px;
+    background-color: white;
+}
+.footer-section{
+    background-color: white;
+}
+.div1-footer-p{
+    color: rgba(0, 0, 0, 0.616);
+}
+.furni-footer-head{
+    color: rgba(0, 183, 255, 0.329);
+}
+.in {
+    height: 30px;
+  }
+  .icons-flex{
+    margin-top: 20px;
+  }
+  .div1-footer{
+    margin-top: 30px;
+  }
+  .li2 a{
+    color: rgba(0, 0, 0, 0.918);
+    font-size: 15px;
+
+  }
+  .li2 a:hover{
+    color: rgba(0, 0, 0, 0.582);
+    text-decoration: none;
+  }
+  .li2{
+    margin-top: 20px;
+  }
+  .parent-footer-div{
+    display: flex;
+    gap: 100px;
+  }
+  ul1{
+    list-style: none;
+  }
+  .footer-section{
+    padding-left: 100px;
+    position: relative;
+    bottom: 250px;
+  }
+  .final-p{
+    text-align: center;
+    margin-top: 80px;
+    color: #0000006e;
+  }
+ 
+  
+  
