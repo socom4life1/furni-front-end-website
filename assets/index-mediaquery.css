@@ -23,7 +23,7 @@ html, body {
   @media (max-width: 768px) {
     .menu-toggle {
       display: block;
-      margin-left: 200px;
+      margin-left: 150px;
     }
     .navlist {
       display: none;
@@ -168,13 +168,13 @@ margin-left: 40px;
   width: 350px;;
 }
 .blog1-div{
-   margin-left: 30px;
+   margin-left: 10px;
 }
 .blog2-div{
-  margin-left: 30px;
+  margin-left: 10px;
 }
 .blog3-div{
-  margin-left: 30px;
+  margin-left: 10px;
 }
 .parent-form{
   flex-direction: column;
