@@ -5,7 +5,7 @@
 html, body {
   width: 100%;
   min-width: 80%;
-  overflow-x: hidden;
+/*   overflow-x: hidden; */
   box-sizing: border-box;
 }
 ::before,
